@@ -1,0 +1,4 @@
+Student	Teacher	Course
+Billy	Joe	Maths
+John	Joe	Maths
+	Max	Physics
